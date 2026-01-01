@@ -60,4 +60,15 @@ This project follows **clean layered architecture** using **Spring Boot, Spring 
 ---
 
 ## 📁 Project Structure
-
+src/main/java/in/shakthi
+├── controller
+├── service
+│ └── impl
+├── repo
+├── entity
+├── exception
+├── config
+├── util
+├── constants
+├── runner
+└── view
